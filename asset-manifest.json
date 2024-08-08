@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.1d9615ed.css",
+    "main.js": "/shopping-cart/static/js/main.fa049362.js",
+    "static/media/truck-loading.jpg": "/shopping-cart/static/media/truck-loading.d0a06b8accc47ba4f7f3.jpg",
+    "index.html": "/shopping-cart/index.html",
+    "main.1d9615ed.css.map": "/shopping-cart/static/css/main.1d9615ed.css.map",
+    "main.fa049362.js.map": "/shopping-cart/static/js/main.fa049362.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9615ed.css",
+    "static/js/main.fa049362.js"
+  ]
+}
